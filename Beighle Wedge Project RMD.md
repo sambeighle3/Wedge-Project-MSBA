@@ -57,25 +57,25 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  | 82676593 | 85760139  |  3083546 | 3.6%  |
+| Total Rows  |85760139 | 85760139  |  0 | 0 |
 | January 2012 Rows  | 107097  | 1070907  | 0 | 0  |
 | October 2012 Rows  |  1042287 |  1042287 |  0 | 0  |
-| Month with Fewest  |  June | December  | No  | NA  |
-| Num Rows in Month with Fewest  |  70288 | 988998  | 918710  | 93%  |
-| Month with Most  | January  |  April | No  | NA  |
-| Num Rows in Month with Most  | 1070907   | 1135000  | 64093  | 5.6%  |
+| Month with Fewest  |  December | December  | Yes | NA  |
+| Num Rows in Month with Fewest  |  988998 | 988998  | 918710  | 0  |
+| Month with Most  | April  |  April | Yes | NA  |
+| Num Rows in Month with Most  | 1135000  | 1135000  | 0  | 0  |
 | Null_TS  | 7123792  | 7123792  |  0 | 0  |
 | Null_DT  |  0 |  0 |  0 | 0  |
-| Null_Local  | 225808  |  234843 | 9035  |  3.7% |
+| Null_Local  |  234843 |  234843 | 0 |  0 |
 | Null_CN  |  0 | 0  | 0  |  0 |
 | Num 5 on High Volume Cards  | 14987  | 14987  | Yes  | NA  |
-|  Num Rows for Number 5 |460630|  445654 | 14976  | 3.2% |
-| Num Rows for 18736  |  11510 | 12153  |   |   |
+| Num Rows for Number 5 |460630|  460630 | 0  | 0 |
+| Num Rows for 18736  |  12153 | 12153  |  0 |  0 |
 | Product with Most Rows  |  Banana Organic | Banana Organic | Yes | NA  |
-| Num Rows for that Product  |  879243 | 908639 |   |   |
+| Num Rows for that Product  |  908639 | 908639 | 0  |  0 |
 | Product with Fourth-Most Rows  | avocado  | avocado  | Yes | NA  |
-| Num Rows for that Product  | 456771  | 432925  |  23846 |  5.2% |
-| Num Single Record Products  | 2769  |  2835 |  66 | 2.3%  |
+| Num Rows for that Product  | 456771  | 456771  |  0 |  0 |
+| Num Single Record Products  | 2769  |  2769 |  0 | 0 |
 | Year with Highest Portion of Owner Rows  | 2014  | 2014  | Yes | NA |
 | Fraction of Rows from Owners in that Year  |  0.7591 | 0.7591  | 0  | 0  |
 | Year with Lowest Portion of Owner Rows  |  2011 | 2011  | Yes | NA |
