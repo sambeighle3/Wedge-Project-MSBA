@@ -8,41 +8,30 @@
 ### Task 1
 
 * Files for this task: 
-<!--  Wedge Project Part 1.ipnyb --> 
+  Wedge Project Part 1.ipnyb 
 
 Loads all data into GBQ data set - did manually for now, but worked on code to do it programmatically.
 
-`File1 Name`: 
-Description of what this file does.
-
-<!--  Repeat for each file  --> 
 
 
 
 ### Task 2
 
 * Files for this task: 
-<!--  Wedge Project Part 2.ipnyb   --> 
+  Wedge Project Part 2.ipnyb 
 
 code that connects to GBQ and creates a sample of owners
 
-`File1 Name`: 
-Description of what this file does.
 
-<!--  Repeat for each file  --> 
-	
+
 
 ### Task 3
 
 * Files for this task: 
-<!-- Wedge Project Part 3.ipnyb  --> 
+ Wedge Project Part 3.ipnyb 
+ Wedge Project Part 3 Python.ipnyb 
+code that connects to GBQ and builds a summary of tables. I have written the queries in GBQ, then downloaded them to local device and created database and filled tables. I also made an attemept to do it with Python for practice.
 
-code that connects to GBQ and builds a summary of tables. I have written the queries in GBQ, then downloaded them to local device and created database and filled tables.
-
-`File1 Name`: 
-Description of what this file does.
-
-<!--  Repeat for each file  --> 
 
 
 ## Query Comparison Results
@@ -53,7 +42,7 @@ need to fill in relative difference on the rows where it applies.
 When calculating relative difference, use the formula 
 ` (your_results - john_results)/john_results)`. 
 
-
+The results are exactly the same. I did a manual upload.
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
@@ -83,4 +72,4 @@ When calculating relative difference, use the formula
 
 ## Reflections
 
-<!-- So far, I have put a lot of work into this and think there is probably some left to do. THis has been a really interesting project and has really opened my eyes to data engineering. --> 
+ So far, I have put a lot of work into this and think there is probably some left to do. This has been a really interesting project and has really opened my eyes to data engineering. 
